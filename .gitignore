@@ -40,3 +40,9 @@ Thumbs.db
 # prisma
 packages/database/prisma/*.db
 packages/database/src/generated/
+
+# AI assistant instructions and planning prompts (kept locally, not published)
+AGENTS.md
+CLAUDE.md
+.claude/
+documentatio.md
