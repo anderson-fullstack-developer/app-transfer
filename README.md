@@ -1,6 +1,6 @@
 # App Transfer
 
-[![CI](https://github.com/anderson-fullstack-developer/app_transfer/actions/workflows/ci.yml/badge.svg)](https://github.com/anderson-fullstack-developer/app_transfer/actions/workflows/ci.yml)
+[![CI](https://github.com/anderson-fullstack-developer/app-transfer/actions/workflows/ci.yml/badge.svg)](https://github.com/anderson-fullstack-developer/app-transfer/actions/workflows/ci.yml)
 ![NestJS](https://img.shields.io/badge/NestJS-11-E0234E?logo=nestjs&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-15-black?logo=next.js)
 ![License](https://img.shields.io/badge/license-MIT-green)
