@@ -9,6 +9,8 @@
 
 > **SIMULATION mode.** No real money moves. Every payment goes through a `MockPaymentProvider`, and the architecture is ready to plug in a licensed partner (Wise, Nium, Thunes) without changing the domain.
 
+**Status: in active development.** The full transfer flow works in simulation mode; real payment providers and further features are still to come.
+
 **Live demo (front-end):** [marrocospay.vercel.app](https://marrocospay.vercel.app)
 
 ![App Transfer home page](docs/screenshots/home.png)
